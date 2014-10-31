@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Have Fun with Numbers!</string>
+    <string name="action_settings">Settings</string>
+    <string name="question">\?</string>
+    <string name="feed_back"></string>
+    <string name="answer">Enter the answer</string>
+    <string name="submit">Submit</string>
+    <string name="score">0/0</string>
+    <string name="clear">Clear</string>
+    <string name="too_easy">Change Setting\? Click!</string>
+    <string name="title_activity_choice_interface">Customer Interface</string>
+    <string name="int_or_float">Integer or Decimal</string>
+    <string name="integer">Integer</string>
+    <string name="decimal">Decimal</string>
+    <string name="level">Hard Level</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="operator">Select Operators</string>
+    <string name="plus_minus">+ -</string>
+    <string name="product_divide">* /</string>
+    <string name="four_op">+ - * /</string>
+    <string name="go">GO!</string>
+
+</resources>
